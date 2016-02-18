@@ -2,6 +2,8 @@ Grid System
 
 ### 文件结构
 
+​ grid-allin.less——合并文件，**包含底下三个文件的版本**。
+
 ​ grid.less——主文件，**请编译此文件**。
 
 ​ mixin.less——混入文件，定义变量和混入类。
